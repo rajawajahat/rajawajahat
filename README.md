@@ -51,4 +51,5 @@ AI-powered accounts receivable automation, used by professional services firms.
 - 🔍 Open to **Senior Python Engineer · AI Engineer · LLM Engineer** roles
 - 🛂 EU Blue Card eligible — H+ anabin, offer letter only, no employer sponsorship needed
 - 🌐 [bywajahat.com](https://bywajahat.com)
+- ✉️ connect.rajawajahat@gmail.com
 - ✉️ rjwaji110@gmail.com
